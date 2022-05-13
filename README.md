@@ -21,7 +21,7 @@
 ## วิดีโอนำเสนอ
 > [Youtube](https://youtu.be/whS6yeSOAUE)
 ## โปสเตอร์
-> 
+> ![Poster (download)](poster/poster.jpg)
 ---
 สมาชิก
 ---
