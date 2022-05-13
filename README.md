@@ -17,7 +17,7 @@
 > * LED
 > * Resistor
 > * breadboard small
-## เว็บที่ใช้เขียนโค้ด
+## เว็บที่ใช้ในการเขียนเขียนโค้ด
 > [Tinkercad](https://www.tinkercad.com/things/eMeeZ9aW7B6-magnificent-robo-curcan/editel?sharecode=HCqukKKhMrvvCIHeHpARReJg8btFMs5zvuPSStovXCI)
 ## วิดีโอนำเสนอ
 > [Youtube](https://youtu.be/whS6yeSOAUE)
